@@ -14,28 +14,28 @@ The Rapid Ambulance Booking System is a mobile application designed for instant 
 
 **Screenshots:**
 
-![Login Page](url_to_login_page_image)
+![login page](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/4d9d5026-beba-408b-8df6-fa4c7e83879a)
 *Login Page: Users can securely log in to the application.*
 
-![User Home Page](url_to_user_home_page_image)
+![User home page](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/0c970203-acba-43b0-86af-a51cd441a2ae)
 *User Home Page: Users have access to essential features for ambulance booking.*
 
-
+![ambulance home page](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/29c3d1f3-1977-4afe-b05f-ea32a50c3980)
 *Ambulance Home Page: Ambulance services can manage and track incoming requests.
 
-
+![ambulance track](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/ea978230-d55d-4193-ac1a-38aaecb37fb5)
 *Ambulance Tracking Screen: Real-time tracking for ambulance services.
 
-
+![user track](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/e99d92b7-85e2-48c9-8413-1c96751ae1d0)
 *User Tracking Screen: Users can monitor the location of the dispatched ambulance.
 
-
+![Ambulance lobby](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/54f8a959-ada0-43ae-b528-3347ed60cf52)
 *Ambulance Lobby: Ambulance services have a dedicated space for managing requests.
 
-
+![Google location](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/c8adcc6b-2a97-48f9-8cdb-ed1a665660bb)
 *Google Location: Integration with Google Maps for precise location data.
 
-
+![User waiting](https://github.com/Niranjanc2602/rapid-ambulance-booking/assets/112241758/3394b4c5-9c75-4a68-aacc-e6c5ad65625c)
 *User Waiting: Users receive updates while waiting for ambulance assistance.
 
 **How to Use:**
