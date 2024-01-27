@@ -58,6 +58,14 @@ The Rapid Ambulance Booking System is a mobile application designed for instant 
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. Let's collaborate to enhance emergency response systems and make a positive impact.
 
-**License:**
+### Prerequisites
 
-This project is licensed under the [MIT License](LICENSE).
+Before you begin, ensure you have the following tools/accounts installed/created:
+
+- Git (for cloning the project)
+- Firebase Account (for database services)
+- Google API Account (for obtaining an API key)
+
+### Clone the Project
+
+Use the following command to clone the project to your local machine:
